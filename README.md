@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 **Rupert123486789/Rupert123486789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
