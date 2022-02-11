@@ -1,4 +1,4 @@
-Hi there 👋
+### Hi there 👋
 
 <!--
 **Rupert123486789/Rupert123486789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupert123486789)](https://github.com/anuraghazra/github-readme-stats)
+[![Hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupert123486789&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
